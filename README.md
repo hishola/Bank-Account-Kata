@@ -7,9 +7,9 @@ Think of your personal bank account experience. When in doubt, go for the simple
 
 Requirements
 ------------
-Deposit and Withdrawal
-Account statement (date, amount, balance)
-Statement printing
+- Deposit and Withdrawal
+- Account statement (date, amount, balance)
+- Statement printing
 The expected result is a service API, and its underlying implementation, that meets the expressed needs.
 Nothing more, especially no UI, no persistence.
 
