@@ -9,7 +9,8 @@ Requirements
 ------------
 - Deposit and Withdrawal
 - Account statement (date, amount, balance)
-- Statement printing
+- Statement printing.
+
 The expected result is a service API, and its underlying implementation, that meets the expressed needs.
 Nothing more, especially no UI, no persistence.
 
